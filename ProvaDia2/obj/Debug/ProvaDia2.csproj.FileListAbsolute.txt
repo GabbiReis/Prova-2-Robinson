@@ -1,0 +1,8 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\bin\Debug\ProvaDia2.exe.config
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\bin\Debug\ProvaDia2.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\bin\Debug\ProvaDia2.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\obj\Debug\ProvaDia2.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\obj\Debug\ProvaDia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\obj\Debug\ProvaDia2.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\obj\Debug\ProvaDia2.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\ProvaDia2\ProvaDia2\obj\Debug\ProvaDia2.pdb
